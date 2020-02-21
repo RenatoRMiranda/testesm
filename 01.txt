@@ -1,6 +1,8 @@
 
 asfa
 
+.
+=======
 Modificação do arquivo
 
 bem legal
